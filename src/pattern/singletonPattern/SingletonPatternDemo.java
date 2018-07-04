@@ -14,5 +14,6 @@ public class SingletonPatternDemo {
         object.showMessage();
         // 测试git
         System.out.println("测试！");
+        System.out.println("测试3");
     }
 }
