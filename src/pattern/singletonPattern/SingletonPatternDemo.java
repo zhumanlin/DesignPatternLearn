@@ -12,5 +12,7 @@ public class SingletonPatternDemo {
 
         //显示消息
         object.showMessage();
+        // 测试git
+        System.out.println("测试！");
     }
 }
