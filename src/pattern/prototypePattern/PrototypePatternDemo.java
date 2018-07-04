@@ -16,5 +16,7 @@ public class PrototypePatternDemo {
         cloneShape4.setId("4");
         System.out.println("shape:" + cloneShape4.getType()+" id:"+cloneShape4.getId());
         cloneShape4.draw();
+        //测试git
+        System.out.println("测试2");
     }
 }
